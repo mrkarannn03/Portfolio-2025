@@ -64,4 +64,4 @@ I'm always open to discussing new opportunities, collaborations, or creative cha
 
 * **LinkedIn:** [https://www.linkedin.com/in/karansingh2006/]
 * **Email:** [karansingh.builds@gmail.com]
-* **Live Portfolio:** [Link to your Live Demo Here] (e.g., deployed via GitHub Pages)
+* **Live Portfolio:** [[Link to your Live Demo Here](https://portfolio-2025-git-main-mrkarannn03s-projects.vercel.app/)] 
