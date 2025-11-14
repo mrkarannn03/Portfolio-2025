@@ -62,6 +62,6 @@ To view the portfolio locally:
 
 I'm always open to discussing new opportunities, collaborations, or creative challenges!
 
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Email:** [Your Professional Email Address]
+* **LinkedIn:** [https://www.linkedin.com/in/karansingh2006/]
+* **Email:** [karansingh.builds@gmail.com]
 * **Live Portfolio:** [Link to your Live Demo Here] (e.g., deployed via GitHub Pages)
