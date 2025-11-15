@@ -185,11 +185,12 @@ hr {
 /* fine home  */
 
 .about{
-    margin-inline: 200px;
+    margin-inline: 13%;
     margin-top: 160px;
 }
 
 .about p{
+    font-family: "Roboto", sans-serif;
     padding-bottom: 30px;
     font-size: 13px;
     color: rgb(50, 50, 50);
@@ -213,6 +214,10 @@ hr {
     flex-direction: column;
 }
 
+.about-info{
+  padding-right:30%;
+}
+
 .about-container{
     display: flex;
     gap: 2rem;
@@ -220,7 +225,7 @@ hr {
 
 .about img{
     position: relative;
-    bottom: 110px;
+    bottom: 100px;
     width: 400px;
     height: 400px;
     border-radius: 15px;
@@ -233,6 +238,8 @@ hr {
 
 .card{
     display: flex;
+    justify-content: center;
+    align-items: center;
     gap: 2rem;
 }
 
@@ -287,6 +294,7 @@ hr {
 
 .info-pro{
     padding-top: 20px;
+    margin-inline: 13%;
 }
 
 .info-pro p{
@@ -298,7 +306,7 @@ hr {
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 25px;
   max-width: 1100px;
-  margin: auto;
+  margin-top: 25px;
 }
 
 .project-card {
@@ -832,6 +840,10 @@ body {
     overflow-wrap: break-word;
   }
 
+  .about-info {
+    padding-right: 0%;
+  }
+
   .project, .services, .contact {
     margin: 0px auto;
     padding: 0 15px;
@@ -893,7 +905,7 @@ body {
     object-fit: cover;
   }
 
-  .info-home h1 { font-size: 26px; }
+  .info-home h1 { font-size: 50px; }
   .info-home h3 { font-size: 18px; }
   .info-p, .info-p2, .home-p, .about p, .project p, .service-card p, .contact p {
     font-size: 14px;
