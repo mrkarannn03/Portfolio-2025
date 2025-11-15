@@ -872,7 +872,7 @@ body {
 
   .about img {
     width: 100%;
-    max-width: 350px; 
+    max-width: 100%; 
     height: auto;
     margin-top: 150px;
     position: relative;
@@ -938,4 +938,5 @@ body {
     display: none;
   }
 }
+
 
